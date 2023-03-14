@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihan-biswas-dev" alt="raihan-biswas-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@webdev_js" target="blank"><img src="https://img.shields.io/twitter/follow/@webdev_js?logo=twitter&style=for-the-badge" alt="@webdev_js" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@raihanbiswasdev" target="blank"><img src="https://img.shields.io/twitter/follow/@raihanbiswasdev?logo=twitter&style=for-the-badge" alt="@raihanbiswasdev" /></a> </p>
 
 - 🔭 I’m currently working on [Ecommerce-Online-Shop](https://github.com/raihan-biswas-dev/Ecommerce-Online-Shop)
 
